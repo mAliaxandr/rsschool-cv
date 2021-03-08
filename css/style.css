@@ -7,3 +7,32 @@
 body {
     background: url("../img/back-img.png");
 }
+
+.wrapper {
+    width: 1024px;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background: rgba(0,0,0, 0.5);
+    border-radius: 5px;
+    padding: 20px;
+    position: relative;
+}
+
+.header {
+    background: rgba(255,255,255, 0.7);
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.header-avatar{
+    height: 150px;
+    width: 150px;
+    background: url("../img/foto.jpg");
+    background-size: cover; 
+    background-position-x: 40%;
+    border-radius: 50%;
+    position: absolute;
+    top: 5px;
+    right: 120px;
+}
