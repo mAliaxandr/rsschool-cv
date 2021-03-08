@@ -36,3 +36,39 @@ body {
     top: 5px;
     right: 120px;
 }
+
+.main{
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 70px;
+    padding: 10px;
+    background: rgba(255,255,255, 0.7);
+}
+
+.main section{
+    margin: 20px;
+}
+
+.main-contacts{
+    position: relative;
+}
+
+.main-contacts-social{
+    position: absolute;
+    top: 4px;
+    right: 40px;
+    color: white;
+}
+
+h3{
+    color: white;
+    background: black;
+    padding: 5px;
+    margin: 10px 0;
+}
+
+h4{
+    color: white;
+    padding: 2px;
+    background:rgba(0,0,0, 0.5);
+}
