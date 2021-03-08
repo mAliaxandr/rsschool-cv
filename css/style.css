@@ -27,10 +27,6 @@ body {
 
 .header-avatar{
     height: 150px;
-    width: 150px;
-    background: url("../img/foto.jpg");
-    background-size: cover; 
-    background-position-x: 40%;
     border-radius: 50%;
     position: absolute;
     top: 5px;
