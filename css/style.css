@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+a {
+    text-decoration: none;
+}
+
 body {
     background: url("../img/back-img.png");
 }
@@ -54,6 +58,26 @@ body {
     top: 4px;
     right: 40px;
     color: white;
+}
+
+.footer {
+    background: rgba(255,255,255, 0.7);
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.footer_list {
+    list-style: none;
+}
+
+.footer_list li {
+    display: inline;
+}
+
+.footer_list-img {
+    width: 100px;
+    height: 30px;
 }
 
 h3{
