@@ -1,4 +1,4 @@
-# CV FrontEnd Developer junior.
+# CV FrontEnd Developer junior
 ## Aliaksandr Mamchyts
 ### Location:    Minsk
 ### My contacts 
