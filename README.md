@@ -1,2 +1,2 @@
 # rsschool-cv  start
-[https://aliaxandrm.github.io/rsschool-cv/cv]
+[https://mAliaxandr.github.io/rsschool-cv/cv]
