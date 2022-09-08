@@ -17,3 +17,16 @@ I want to be - сreative Senior Front-end Developer with  experience leveraging 
 * JavaScript
 * React
 * Git
+#### Education:
+* 2001 - Minsk State College of Electronics.
+* 2007 - Minsk Innovation University.
+
+###### Courses:
+    * 2017 - IT Academy - Software Engineer.
+    * 2018 - MyFreedom - FrontEnd Developer.
+    * 2019 - Codecademy: 
+        - HTML
+        - CSS
+
+
+#### English level: PreIntermideate
