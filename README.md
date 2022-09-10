@@ -3,4 +3,4 @@
 
  # CV#2. HTML, CSS & Git Basics
 
-[https://mAliaxandr.github.io/rsschool-cv]
+[https://mAliaxandr.github.io/rsschool-cv/]
